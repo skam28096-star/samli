@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1, samli
+#EXTINF:-1, free for everyone 
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SETHD1_Landscape_Thumb.jpg" group-title="Sony Liv",SONY set HD
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fhdntl%3Dexp%3D1761547938~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3D668ddd23326e472cfe97198bc3e85752df0fc2dff03e1439fcd412d69d8480b5%2Fmaster_108.m3u8%3Faka_me_session_id%3DAAAAAAAAAACiFv9oAAAAAD806nfovBUz6jlYf2hRIpA0QnlOa2mFiWRFFttIu2%2BSSnoeO%252f9lF%2Bo2PJN2Fd34e1gS8DYWFlqa%26aka_media_format_type%3Dhls
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SABTVHD1_Landscape_Thumb1.jpg" group-title="Sony Liv",SONY SAB HD
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fhdntl%3Dexp%3D1761549023~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3D36fc76de8d5d6d3956e59dc25f2c443f4fa63f047aabf44ee5dfbfba572e9aed%2Fmaster_412.m3u8%3Faka_me_session_id%3DAAAAAAAAAADfGv9oAAAAAKb%2B2NEWvDuOh3w7l2aU1hCRnbKlLK%252fE3XL5oC9V72bKNU9if5gPbTcVQAnWC9BYOAynTWJbydKF%26aka_media_format_type%3Dhls
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/31aug_sonypal_landscape.jpg" group-title="Sony Liv",SONY PAL
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fhdntl%3Dexp%3D1761546651~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3D9fdb792d5ead5eca9f59f2181c78e914d5e7929c70267baa8a81f462fd2cfc45%2Fmaster_664.m3u8%3Faka_me_session_id%3DAAAAAAAAAACbEf9oAAAAAAFddP%2BQGJiQc8bKKfnFZVEHJlqXUEXhoqQCOl0REx6zZUwyvSYQiH1%252fulwIy3OZAt5RzSeN8g8Z%26aka_media_format_type%3Dhls
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMax_HD_landscape_thumb.jpg" group-title="Sony Liv",SONY MAX HD
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670%2FSonyMaxhd%2Fhdntl%3Dexp%3D1761549335~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3Db3c6ab825daa53db48fd8768362e27c3eff2310fb7f5bd7c6c8ce9ed9e414615%2Fmaster_108.m3u8%3Faka_me_session_id%3DAAAAAAAAAAAXHP9oAAAAAF2%2B6z26XpQqKznOf8mTlFE8b4Ks09nE88abXy6PvCW4%2B2zdr35C0NM%252fuekOytf3L6lmvj6CdFU0%26aka_media_format_type%3Dhls
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5613700600001.jpg" group-title="Sony Liv",SONY WAH
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fhdntl%3Dexp%3D1761549453~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3Df66c97bfabb7df6f940b5a3e8e9f1b9e595ebd9ea6fc777e46d10014bad681cf%2Fmaster_224.m3u8%3Faka_me_session_id%3DAAAAAAAAAACNHP9oAAAAAH9ssrVMPV05bjqwMzEiC08mAFlMhvMpuC0nZGt%252fQQWteQQvdYyzEX5pEqENjgniqcHlByNBFYe4%26aka_media_format_type%3Dhls
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/sonymax2_Landscape_Thumb.jpg" group-title="Sony Liv",SONY MAX2
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fhdntl%3Dexp%3D1761549538~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3Db1a59a18faafc78d48e61a7cde197129923477cd960be6cb8220ca4549fdf590%2Fmaster_412.m3u8%3Faka_me_session_id%3DAAAAAAAAAADiHP9oAAAAAAS%2BW7E6lkhR1hZkDKU10hukzMNtefggHnp4NjuiAubjeTImAKtyW4N3KO7Rasza4DmX4xor4gT5%26aka_media_format_type%3Dhls
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5784992380001.jpg" group-title="Sony Liv",SONY AATH
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fhdntl%3Dexp%3D1761549238~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3D77932152906a7af3ea38df856c6227806dadf59c45ce1bd325a738ac2cc443ee%2Fmaster_900.m3u8%3Faka_me_session_id%3DAAAAAAAAAAC2G%252f9oAAAAAPDOs77uyWhb%2B1gW3s5YjT2dbOMuHwAMKqCfUQ3WldF4Dyn6IUNPOK5%2B4cOkjAT8J%252f%2BTFDbuxZ8W%26aka_media_format_type%3Dhls
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/sony_yay_livechannel_landsscape.jpg" group-title="Sony Liv",SONY YAY
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fhdntl%3Dexp%3D1761549164~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3Da4418c09ea654ddc04e2109e9d37d98ce1a3258cfc999853683583c2bd188b83%2Fmaster_412.m3u8%3Faka_me_session_id%3DAAAAAAAAAABsG%252f9oAAAAAAxjZtiH5OwyG0Autzu%2BEZGwb5%2BUlvps4ooO2FZeRqe1%252f4YYvXGi9O3%252fKsrgMXnsVLrEP8SCDD%2BF%26aka_media_format_type%3Dhls
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMarathi2_Landscape_Thumb_3.jpg" group-title="Sony Liv",SONY MARATHI
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740%2FSonyMarathi%2Fhdntl%3Dexp%3D1761548625~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3Dbdb775a4320464f9817423f0cc767bfde4b69a69dc2bb0854f99723261162155%2Fmaster_900.m3u8%3Faka_me_session_id%3DAAAAAAAAAABRGf9oAAAAAC%2BcF1Zxer20Jp7bqROKiIL9WvpQR4BmiVrvjdlODWRi6PNj%252fa9QbxoG4uLa3vdVambC%2BPBdQTfw%26aka_media_format_type%3Dhls
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5813558986001.jpg" group-title="Sony Liv",SONY PIX HD
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fhdntl%3Dexp%3D1761549615~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3D00119d6cf3a0ad4e9497d1094d86f015149b3f0937030ce814643cff41159a3b%2Fmaster_900.m3u8%3Faka_me_session_id%3DAAAAAAAAAAAvHf9oAAAAAEyECtYWzMjwnVrG17%2BvIHY96cKi6ytMaMPRujfeHstrcFkTRdmBJJPJ9MyU7XBqxpqcu6ETrIJa%26aka_media_format_type%3Dhls
+
+#EXTINF: -1 tvg-id="12" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5571681160001.jpg" group-title="Sony Liv",SONY BBC EARTH
+https://allinonereborn.online/livtest297/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fhdntl%3Dexp%3D1761549692~acl%3D%252f%2A~id%3D28274687819255491921111386104056~data%3Dhdntl~hmac%3Dcb60a64df3cd8890526ea7cec5110dce6b7a9e9ef68d390fcd9cc87ce1dd878c%2Fmaster_108.m3u8%3Faka_me_session_id%3DAAAAAAAAAAB8Hf9oAAAAAKjXyjqURASjcgdVDCSiMCZEFuup7td%252fKc47BWmdIUDn%2Bk4%252fH0Br1E1gJ0aFQBhz47qjyphZ9Tpw%26aka_media_format_type%3Dhls
+
